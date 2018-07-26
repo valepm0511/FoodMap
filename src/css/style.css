@@ -9,7 +9,7 @@
 	height: 100%;
 	width: 100%;
 	position: fixed;
-	transition: all 3s ease;
+	transition: all 1s ease;
 	z-index: 10000;
 }
 .titleIntro{
@@ -40,5 +40,19 @@
 
 .containerSearch{
 	background-color: #2B2B2B;
+}
+.textSize{
+	font-size: 30px;
+}
+.modal-content{
+	padding: 20px !important;
+}
+
+.infoModalRest{
+	color: #5D6770;
+}
+
+.titleRestModal{
+
 }
 

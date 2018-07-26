@@ -7,8 +7,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 57 276 3546",
 		"urlPhoto": "https://media-cdn.tripadvisor.com/media/photo-w/12/12/4f/2e/ven-a-disfrutar-de-sublime.jpg",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.3851444",
+		"longitud" : "-70.55491569999998"
 	},
 	{
 		"name": "Lorenza Bistró",
@@ -18,8 +18,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 9 3071 0719",
 		"urlPhoto": "http://fudis.cl/wp-content/uploads/2018/01/lorenza.jpg",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.4023519",
+		"longitud" : "-70.59210389999998"
 	},
 	{
 		"name": "Pizzería Italia",
@@ -29,8 +29,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 2 2700 7893",
 		"urlPhoto": "http://img0.amerpages.com/items/101/101_27562.jpg",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.4374211",
+		"longitud" : "-70.615792"
 	},
 	{
 		"name": "Tiramisú",
@@ -40,8 +40,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 2 2519 4900",
 		"urlPhoto": "https://i.pinimg.com/originals/e3/3f/a5/e33fa562c29d125203c13a1cda6da2ce.png",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.4147172",
+		"longitud" : "-70.59744490000003"
 	},
 	{
 		"name": "Romaria",
@@ -51,8 +51,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 2 2228 4946",
 		"urlPhoto": "http://www.laguiadesantiagodechile.com/uploads/imagenes/clasificados/895/principal/200xAuto/151029112729828525.jpg",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.4050289",
+		"longitud" : "-70.59766580000002"
 	},
 	{
 		"name": "Trattoria Rita",
@@ -62,8 +62,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 2 2656 7014",
 		"urlPhoto": "http://www.rita.cl/wp-content/uploads/2016/02/Logo-Trattoria-Rita.png",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.4021934",
+		"longitud" : "-70.5782494"
 	},
 	{
 		"name": "Aquí está Coco",
@@ -73,8 +73,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 2 2410 6200",
 		"urlPhoto": "http://www.aquiestacoco.cl/media/2016/img/logo.jpg",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.4241222",
+		"longitud" : "-70.61659989999998"
 	},
 	{
 		"name": "Giratorio Restaurant",
@@ -84,8 +84,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 2 2232 1827",
 		"urlPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUfRxqnmsrcdw-G-uXr9rgIF1AkImYTqq6H7hHEVSupjS-n8dfWQ",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.4217538",
+		"longitud" : "-70.60857379999999"
 	},
 	{
 		"name": "Pescao con Caña",
@@ -95,8 +95,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 2 2982 2222",
 		"urlPhoto": "https://media-cdn.tripadvisor.com/media/photo-i/0f/62/25/a6/pescao-con-cana-paladaresinqui.jpg",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.3827516",
+		"longitud" : "-70.53569620000002"
 	},
 	{
 		"name": "Gelateria MO",
@@ -106,8 +106,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 2 2638 2711",
 		"urlPhoto": "https://media-cdn.tripadvisor.com/media/photo-s/05/09/e7/25/gelateria-mo.jpg",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.4366293",
+		"longitud" : "-70.64420810000001"
 	},
 	{
 		"name": "El Taller",
@@ -117,8 +117,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 2 2235 2414",
 		"urlPhoto": "https://media-cdn.tripadvisor.com/media/photo-s/0e/5c/a7/f5/el-taller-club-de-helado.jpg",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.4284482",
+		"longitud" : "-70.6176997"
 	},
 	{
 		"name": "Café Mozart",
@@ -128,8 +128,8 @@
 		"region": "Metropolitana",
 		"phone" : "5622190700",
 		"urlPhoto": "http://www.pasteleriacafemozart.com/logotipo.jpeg",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.3885787",
+		"longitud" : "-70.57809170000002"
 	},
 	{
 		"name": "Il Maestrale Gelateria Italiana",
@@ -139,8 +139,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 2 2249 8361",
 		"urlPhoto": "http://www.ilmaestrale.cl/images/logo-il-maestrale-comienzo.png?crc=243572368",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.4345628",
+		"longitud" : "-70.6347475"
 	},
 	{
 		"name": "Azahar",
@@ -150,8 +150,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 9 5010 010",
 		"urlPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMfnIgnVHgL1NEYPb8rFTUNM5KyCw2Sr2CatkMg1CYD_c3ksEdRw",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.44432260000001",
+		"longitud" : "-70.5768481"
 	},
 	{
 		"name": "Soho Thai",
@@ -161,8 +161,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 2 2224 2393",
 		"urlPhoto": "",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.4408078",
+		"longitud" : "-33.4408078"
 	},
 	{
 		"name": "Thai Express",
@@ -172,8 +172,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 2 2224 4495",
 		"urlPhoto": "",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.4377425",
+		"longitud" : "-70.64406380000003"
 	},
 	{
 		"name": "Carrer Nou",
@@ -183,8 +183,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 2 2727 1161",
 		"urlPhoto": "http://www.revistamujer.cl/wp-content/uploads/2013/09/1_3504.jpg",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.44554",
+		"longitud" : "-70.6168892"
 	},{
 		"name": "Bao Bar",
 		"category": "Española",
@@ -193,8 +193,8 @@
 		"region": "Metropolitana",
 		"phone" : "+56 2 3267 4334",
 		"urlPhoto": "https://media-cdn.tripadvisor.com/media/photo-w/12/a9/6c/f1/detalles-del-interior.jpg",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.4364945",
+		"longitud" : "-70.61640460000001"
 	},
 	{
 		"name": "Johnny Rockets Costanera Center",
@@ -204,8 +204,8 @@
 		"region": "Metropolitana",
 		"phone" : "26189844",
 		"urlPhoto": "",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.417382",
+		"longitud" : "-70.607779"
 	},
 	{
 		"name": "Mr. Jack",
@@ -215,7 +215,7 @@
 		"region": "Metropolitana",
 		"phone" : "+56 22207201",
 		"urlPhoto": "2wCEAAkGBxITEhUTExMVFhUXGBcXFRcXFhUVFRUVFRUWFhUVFRcYHSggGBolHRUVIjEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGyslICUtLS0tLS8wLi8tLS4tLS0tLS0tKy0vLS0tLS0tLS0tLzUtLy0uLS0tLS0tLS0tLS0tLf",
-		"latitud" : "",
-		"longitud" : ""
+		"latitud" : "-33.4027371",
+		"longitud" : "-70.5780461"
 	}
 ]
