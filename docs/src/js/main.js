@@ -13,7 +13,7 @@ let restaurant = null;
 let localRest = null;
 
 //conexion al json restaurantes
-fetch('js/restaurantes.json')
+fetch('src/js/restaurantes.json')
 .then(response => response.json())
 .then(restaurantesJSON => {
   restaurant = restaurantesJSON;
