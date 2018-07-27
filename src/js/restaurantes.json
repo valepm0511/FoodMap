@@ -160,7 +160,7 @@
 		"city": "Santiago",
 		"region": "Metropolitana",
 		"phone" : "+56 2 2224 2393",
-		"urlPhoto": "",
+		"urlPhoto": "https://media-cdn.tripadvisor.com/media/photo-s/10/90/3b/4b/soho-thai.jpg",
 		"latitud" : "-33.4408078",
 		"longitud" : "-33.4408078"
 	},
@@ -171,7 +171,7 @@
 		"city": "Santiago",
 		"region": "Metropolitana",
 		"phone" : "+56 2 2224 4495",
-		"urlPhoto": "",
+		"urlPhoto": "https://bahrainshops.net/uploads/images/Thai_Express_Canada_logo.svg.png",
 		"latitud" : "-33.4377425",
 		"longitud" : "-70.64406380000003"
 	},
@@ -203,7 +203,7 @@
 		"city": "Santiago",
 		"region": "Metropolitana",
 		"phone" : "26189844",
-		"urlPhoto": "",
+		"urlPhoto": "https://d1ol2bl3a4a1ax.cloudfront.net/golf_holidays/1513287192_/godesto-golf-1513287192.jpg",
 		"latitud" : "-33.417382",
 		"longitud" : "-70.607779"
 	},
@@ -214,8 +214,107 @@
 		"city": "Santiago",
 		"region": "Metropolitana",
 		"phone" : "+56 22207201",
-		"urlPhoto": "2wCEAAkGBxITEhUTExMVFhUXGBcXFRcXFhUVFRUVFRUWFhUVFRcYHSggGBolHRUVIjEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGyslICUtLS0tLS8wLi8tLS4tLS0tLS0tKy0vLS0tLS0tLS0tLzUtLy0uLS0tLS0tLS0tLS0tLf",
+		"urlPhoto": "http://patiobellavista.cl/assets/img/local/_galeria_large/mrjack-2.jpg",
 		"latitud" : "-33.4027371",
 		"longitud" : "-70.5780461"
+	},
+	{
+		"name": "Eladio",
+		"category": "Churrasquería",
+		"address": "Avenida Nueva Providencia 2250/5, Santiago",
+		"city": "Santiago",
+		"region": "Metropolitana",
+		"phone" : "+56 2 2231 4224",
+		"urlPhoto": "https://static.wixstatic.com/media/f721c2_08f69408d4ed4b70bedaaed3269eb553~mv2.jpg",
+		"latitud" : "-33.4217538",
+		"longitud" : "-70.60857379999999"
+	},
+	{
+		"name": "Fuente Las Mechadas - Sangucheria Chilena",
+		"category": " Churrasquería",
+		"address": "Mujica 0380 Ñuñoa, Barrio Italia",
+		"city": "Santiago",
+		"region": "Metropolitana",
+		"phone" : "+56 9 4225 4718",
+		"urlPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8R5Mm9kLOf_Vtrw99MJuwYZd2V9nYNF2MqC7X-YQWO7YssgmO",
+		"latitud" : "-33.449768",
+		"longitud" : "-70.62545399999999"
+	},
+	{
+		"name": "La Hacienda Gaucha",
+		"category": "Churrasquería",
+		"address": "Avenida Vicuña Mackenna 35, Santiago",
+		"city": "Santiago",
+		"region": "Metropolitana",
+		"phone" : "+56 2 2665 6038",
+		"urlPhoto": "http://www.lahaciendagaucha.cl/logoinicio.jpg",
+		"latitud" : "-33.438547",
+		"longitud" : "-70.63508389999998"
+	},
+	{
+		"name": "Sarita Colonia",
+		"category": "Peruana",
+		"address": "Loreto 40 | Recoleta, Santiago",
+		"city": "Santiago",
+		"region": "Metropolitana",
+		"phone" : "+56 2 2881 3937",
+		"urlPhoto": "http://saritacoloniarestoran.cl/wp-content/uploads/2015/02/sarita-galeria-17.jpg",
+		"latitud" : "-33.4330505",
+		"longitud" : "-70.64252269999997"
+	},
+	{
+		"name": "Chipe Libre - Republica Independiente del Pisco",
+		"category": "Peruana",
+		"address": "Jose Victorino Lastarria 282 | Jose Victorino Lastarria 282",
+		"city": "Santiago",
+		"region": "Metropolitana",
+		"phone" : "+56 2 2664 0584",
+		"urlPhoto": "https://media-cdn.tripadvisor.com/media/photo-s/09/97/95/b8/chipe-libre-republica.jpg",
+		"latitud" : "-33.4383035",
+		"longitud" : "-70.64140680000003"
+	},
+	{
+		"name": "Hansoban Korean Bbq",
+		"category": "Parrillada",
+		"address": "Calle Río de Janeiro 248 | Recoleta, Santiago",
+		"city": "Santiago",
+		"region": "Metropolitana",
+		"phone" : "+56 2 735 9354",
+		"urlPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3RUzCwlCpFFaSbhlyagVUvHOpQWbs1HWI1xYWkXaIIZDWBorn",
+		"latitud" : "-33.4310064",
+		"longitud" : "-70.64345559999998"
+	},
+	{
+		"name": "Chilenazo Restaurant",
+		"category": "Parrillada",
+		"address": "Avenida José Pedro Alessandri 2955, Macul",
+		"city": "Santiago",
+		"region": "Metropolitana",
+		"phone" : "+56 2 2238 1587",
+		"urlPhoto": "https://media-cdn.tripadvisor.com/media/photo-s/0e/1b/7f/2b/restaurant-el-chilenazo.jpg",
+		"latitud" : "-33.4714073",
+		"longitud" : "-70.59860789999999"
+	},
+	{
+		"name": "Naoki",
+		"category": "Sushi",
+		"address": "Avenida Vitacura 3875, Santiago",
+		"city": "Santiago",
+		"region": "Metropolitana",
+		"phone" : "+56 2 2207 529",
+		"urlPhoto": "https://media-cdn.tripadvisor.com/media/photo-s/10/c7/86/66/naoki-sushi-bar-exotic.jpg",
+		"latitud" : "-33.40055359999999",
+		"longitud" : "-70.5922726"
+	},
+	{
+		"name": "Matsuri",
+		"category": "Sushi",
+		"address": "Avenida Presidente Kennedy # 4601",
+		"city": "Santiago",
+		"region": "Metropolitana",
+		"phone" : "+56 2 2950 3188",
+		"urlPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4PnHZnYpoWaiTjDBsiDzekeL6YSJvWzbY42lUsuBusLaqt0S",
+		"latitud" : "-33.4044249",
+		"longitud" : "-70.58583720000001"
 	}
 ]
