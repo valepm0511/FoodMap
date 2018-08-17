@@ -46,8 +46,8 @@ window.model.filterCategory = (localRest, search) => {
 		if(localRest){
 			search = search.toLowerCase();
 			return  localRest.filter(rest => rest &&
-				rest.category &&
-				rest.category.toLowerCase().indexOf(search)>= 0);
+				rest.name &&
+				rest.name.toLowerCase().indexOf(search)>= 0);
 		}
 	}
 	return localRest;
