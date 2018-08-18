@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+body{
+	background-color: #2B2B2B;
+}
+
 #containerPreloader{
 	background-color: #2B2B2B;
 	height: 100%;

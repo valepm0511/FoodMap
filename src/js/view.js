@@ -1,16 +1,6 @@
 // declarando funcion global
 window.view = {};
 
-window.onload = () => {
-	setTimeout = () => {
-		const containerPreloader = document.getElementById('containerPreloader');
-		containerPreloader.style.visibility = 'hidden';
-		containerPreloader.style.opacity = '0';
-	}, 2000;
-	window.view.index();
-};
-
-
 window.view.index = () => {
 	let containerIndex = document.getElementById('containerIndex');
 	containerIndex.innerHTML = 
@@ -41,7 +31,7 @@ window.view.index = () => {
 	<!--resultado busqueda por nombre-->
 	</div>
 	<p class="text-warning lead">Buscar por Categorias</p>
-	<div class="input-group mb-5 pb-5">
+	<div class="input-group mb-3">
 	<input type="text" id="searchBoxCategory" class="form-control" onkeyup="window.controller.answersCategory()" placeholder="Filtrar por Categorias">
 	<div class="input-group-append">
 	<button id="btnSearch" class="btn btn-warning" type="button"><i class="fas fa-search"></i></button>
@@ -59,7 +49,7 @@ window.view.index = () => {
 window.view.onSearchBoxChange = () => {
 	const search = document.getElementById("searchBox").value;
 	const restContainer = document.getElementById("contentRest");
-	const filteredRest = window.model.filterRest(localRest, search);
+	const filteredRest = window.controller.controllerFilterRest(localRest, search);
 	restContainer.innerHTML = "";
 	if(search != ""){
 		filteredRest.forEach(rest => {
@@ -72,7 +62,7 @@ window.view.onSearchBoxChange = () => {
 window.view.onSearchCategory = () => {
 	const search = document.getElementById("searchBoxCategory").value;
 	const restContainer = document.getElementById("contentRest2");
-	const filteredCategory = window.model.filterCategory(localRest, search);
+	const filteredCategory = window.controller.controllerFilterCategory(localRest, search);
 	restContainer.innerHTML = "";
 	if(search != ""){
 		filteredCategory.forEach(rest => {

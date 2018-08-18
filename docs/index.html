@@ -41,43 +41,8 @@
     </div>
 
     <!--contenido pagina-->
-    <div class="container-fluid containerSearch">
-      <div class="row">
-        <div class="col-12 mt-4">
-          <h1 class="display-4 text-warning text-center">FoodMap <i class="fas fa-utensils"></i></h1>
-        </div>
-      </div>
-      <hr class="bg-white">
-      <div class="row">
-        <div class="col-12">
-          <p class="lead text-center text-warning textSize">Comidas cerca de ti</p>
-          <div id="map" class="mb-3">
-            <!--mapa-->
-          </div>
-          <p class="text-warning lead">Buscar por Nombre de Restaurant</p>
-          <div class="input-group mb-3">
-            <input type="text" id="searchBox" class="form-control" onkeyup="onSearchBoxChange()" placeholder="Filtrar Restaurantes">
-            <div class="input-group-append">
-              <button id="btnSearch" class="btn btn-warning" type="button"><i class="fas fa-search"></i></button>
-            </div>
+    <div class="container-fluid containerSearch mb-5 pb-5" id="containerIndex">
 
-          </div>
-          <div id="contentRest">
-            <!--resultado busqueda por nombre-->
-          </div>
-          <p class="text-warning lead">Buscar por Categorias</p>
-          <div class="input-group mb-3">
-
-            <input type="text" id="searchBoxCategory" class="form-control" onkeyup="onSearchCategory()" placeholder="Filtrar por Categorias">
-            <div class="input-group-append">
-              <button id="btnSearch" class="btn btn-warning" type="button"><i class="fas fa-search"></i></button>
-            </div>
-          </div>
-          <div id="contentRest2">
-            <!--resultado busqueda por categoria-->
-          </div>
-        </div>
-      </div>
     </div>
 
     <!-- <div id="map"></div> -->
@@ -97,8 +62,8 @@
     async defer></script>
 
     <script src="src/js/main.js"></script>
-    <script type="scr/js/view.js"></script>
-    <script type="scr/js/model.js"></script>
-    <script type="scr/js/controller.js"></script>
+    <script src="src/js/view.js"></script>
+    <script src="src/js/model.js"></script>
+    <script src="src/js/controller.js"></script>
   </body>
   </html>

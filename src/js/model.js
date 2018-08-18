@@ -12,7 +12,7 @@ fetch('src/js/restaurantes.json')
 .then(restaurantesJSON => {
 	restaurant = restaurantesJSON;
 	localRest = window.model.restName(restaurant);
-	console.log(localRest);
+	// console.log(localRest);
 })
 .catch(error => {
 	console.error("No pudimos obtener respuesta");
@@ -46,8 +46,8 @@ window.model.filterCategory = (localRest, search) => {
 		if(localRest){
 			search = search.toLowerCase();
 			return  localRest.filter(rest => rest &&
-				rest.name &&
-				rest.name.toLowerCase().indexOf(search)>= 0);
+				rest.category &&
+				rest.category.toLowerCase().indexOf(search)>= 0);
 		}
 	}
 	return localRest;
