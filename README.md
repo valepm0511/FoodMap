@@ -24,3 +24,4 @@ Proyecto realizado para Laboratoria
 
 ## Enlace deploy
 
+https://valepm0511.github.io/FoodMap/.
