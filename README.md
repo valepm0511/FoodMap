@@ -1,8 +1,12 @@
 ![image](https://user-images.githubusercontent.com/38740899/47087428-57cacf00-d1f2-11e8-90ac-9689a9507ea0.png)
 
+#FoodMap
+
 FoodMap es una aplicación mobile que permite buscar restaurantes cerca de tu ubicación
 
-Proyecto realizado para Laboratoria
+## Desarrollado para 
+
+[Laboratoria](http://laboratoria.la)
 
 ## Tecnología usada
 
